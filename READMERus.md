@@ -38,6 +38,10 @@
 | `Project/` | Исходный код Unity проекта |
 | `README.md` | Этот файл |
 
+| https://disk.yandex.ru/d/vmkmOgSnBTwH2Q |
+
+| https://disk.yandex.ru/d/X45s4CjVoWBcYg |
+
 ---
 
 ## 🎮 Управление
