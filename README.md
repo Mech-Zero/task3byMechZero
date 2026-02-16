@@ -38,8 +38,8 @@ Unity-based character roulette system built with **AxGridUnityTools** framework.
 | `Project/` | Full Unity project source |
 | `README.md` | This file |
 
-https://disk.yandex.ru/d/vmkmOgSnBTwH2Q
-https://disk.yandex.ru/d/X45s4CjVoWBcYg
+| https://disk.yandex.ru/d/vmkmOgSnBTwH2Q |
+| https://disk.yandex.ru/d/X45s4CjVoWBcYg |
 ---
 
 ## 🎮 Controls
